@@ -173,6 +173,12 @@ In-depth analysis including:
 
 For questions or feedback regarding this analysis, please open an issue on GitHub.
 
+### Connect With Me
+
+- **LinkedIn**: [Aniket Jadhav](https://www.linkedin.com/in/aniket-45-jadhav/)
+- **Portfolio Website**: [Data Analyst Portfolio](https://data-analyst-portfolio-website-nine.vercel.app/)
+- **GitHub**: [Anujadhav23](https://github.com/Anujadhav23)
+
 ## 📄 License
 
 This project is open source and available under the MIT License.
