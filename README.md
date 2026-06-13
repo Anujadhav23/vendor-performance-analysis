@@ -156,6 +156,7 @@ In-depth analysis including:
 
 - `Vendor_Performance_Report.pdf` - Executive summary and key findings
 - `Vendor_Performance_Report_v2.docx` - Detailed analysis report
+- [**Comprehensive Project Report**](https://drive.google.com/file/d/1PLtPDRGz-04cB-9nK6Nm7KZJ11BxOeVF/view?usp=sharing) - Full project analysis and insights (Google Drive)
 - `PurchaseContribution.csv` - Calculated contribution metrics
 - `vendor_sales_summary.csv` - Aggregated vendor metrics
 
